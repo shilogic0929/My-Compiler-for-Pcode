@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "name": "GCC",
+            "includePath": [
+                "${workspaceFolder}/Headers/**",
+                "${workspaceFolder}/**"
+            ],
+            "forcedInclude": [],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json",
+            "compilerArgs": [],
+            "compilerPath": "d:\\mingw\\mingw64\\bin\\gcc",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "customConfigurationVariables": {},
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceRoot}",
+                    "d:\\mingw\\mingw64\\lib",
+                    "d:\\mingw\\mingw64\\include"
+                ],
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "windowsSdkVersion": "10.0.18362.0",
+            "macFrameworkPath": [],
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,22 @@
+[
+{
+  "directory": "D:/Compiler/Compiler/build",
+  "command": "D:\\mingw\\mingw64\\bin\\g++.exe  @CMakeFiles/Compiler.dir/includes_CXX.rsp -g -DDEBUG -std=gnu++14 -o CMakeFiles\\Compiler.dir\\Sources\\cg_pcode_exec.cpp.obj -c D:\\Compiler\\Compiler\\Sources\\cg_pcode_exec.cpp",
+  "file": "D:/Compiler/Compiler/Sources/cg_pcode_exec.cpp"
+},
+{
+  "directory": "D:/Compiler/Compiler/build",
+  "command": "D:\\mingw\\mingw64\\bin\\g++.exe  @CMakeFiles/Compiler.dir/includes_CXX.rsp -g -DDEBUG -std=gnu++14 -o CMakeFiles\\Compiler.dir\\Sources\\lexer.cpp.obj -c D:\\Compiler\\Compiler\\Sources\\lexer.cpp",
+  "file": "D:/Compiler/Compiler/Sources/lexer.cpp"
+},
+{
+  "directory": "D:/Compiler/Compiler/build",
+  "command": "D:\\mingw\\mingw64\\bin\\g++.exe  @CMakeFiles/Compiler.dir/includes_CXX.rsp -g -DDEBUG -std=gnu++14 -o CMakeFiles\\Compiler.dir\\Sources\\main.cpp.obj -c D:\\Compiler\\Compiler\\Sources\\main.cpp",
+  "file": "D:/Compiler/Compiler/Sources/main.cpp"
+},
+{
+  "directory": "D:/Compiler/Compiler/build",
+  "command": "D:\\mingw\\mingw64\\bin\\g++.exe  @CMakeFiles/Compiler.dir/includes_CXX.rsp -g -DDEBUG -std=gnu++14 -o CMakeFiles\\Compiler.dir\\Sources\\parser.cpp.obj -c D:\\Compiler\\Compiler\\Sources\\parser.cpp",
+  "file": "D:/Compiler/Compiler/Sources/parser.cpp"
+}
+]
